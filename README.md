@@ -1,2 +1,2 @@
 # transactions
-A web application to analyse money transactions.
+A web application to analyse money transactions
